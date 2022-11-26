@@ -15,9 +15,9 @@ print('-------------3rd----------------')
 #3. create an object c2 of class Vehicle , but change the value of Safety as False then  print all the attributes
 c2=Vehicle()
 c2.Safety=False
-print(c1.Brand)
-print(c1.color)
-print(c1.Capacity)
+print(c2.Brand)
+print(c2.color)
+print(c2.Capacity)
 print(c2.Safety)
 
 print('-----------4th--------------')
